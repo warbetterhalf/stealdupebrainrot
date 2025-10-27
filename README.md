@@ -1,0 +1,2 @@
+# stealdupebrainrot
+Auto-generated repository
